@@ -62,7 +62,7 @@
             "dev": "vite",
             "build": "vite build",
             "preview": "vite preview",
-            "deploy": "gh-pages -d dist"
+            "deploy": "gh-pages -d build"
       },
       "homepage": "https://kss1510.github.io/Smart-Study-Planner"
 }
