@@ -24,7 +24,7 @@ import { Analytics } from './components/Analytics'
 import { DashboardSkeleton, TasksSkeleton, AnalyticsSkeleton } from './components/SkeletonLoader'
 import { Button } from './components/ui/button'
 import { Toaster } from './components/ui/sonner'
-import { toast } from 'sonner@2.0.3'
+import { toast } from 'sonner'
 import { ThemeProvider, useTheme } from './utils/ThemeContext'
 
 type AuthView = 'login' | 'signup'
